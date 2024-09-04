@@ -15,9 +15,6 @@ class exercise1 {
         
         answer= Math.cbrt(((Math.pow(x,2)+ Math.pow(y,2))-Math.abs(z)));
 
-
-
-
         // Calculate the value of an expression and store the final value in the answer
         
         /* You do not need to worry too much about the return statement for the 
